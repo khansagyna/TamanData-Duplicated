@@ -1,0 +1,32 @@
+*::-webkit-scrollbar {
+    display: none;
+}
+body{
+    font-family: "Nunito", serif;
+    background-color: #f1f7ff !important;
+}
+.login{
+    padding-right: 150px;
+    padding-left: 150px;
+    
+}
+.form{
+    width: 100%;
+    border: none;
+}
+.box{
+    background-color: white;
+}
+.username{
+    width: 100%;
+}
+.email{
+    width: 100%;
+}
+.password{
+    width: 100%;
+}
+.submit{
+    width: 100%;
+    background: linear-gradient(90deg, rgba(112,122,254,0.6054796918767507) 0%, rgba(11,144,236,0.7791491596638656) 55%, rgba(23,201,237,1) 100%);
+}
