@@ -1,0 +1,22 @@
+body{
+    font-family: "Nunito", serif;
+}
+.navbar{
+    background-color:#f1f7ff;
+  }
+.line{
+    width: 50px;
+    height: 2px;
+    background: linear-gradient(90deg, rgba(112,122,254,0.6054796918767507) 0%, rgba(11,144,236,0.7791491596638656) 55%, rgba(23,201,237,1) 100%);
+    margin-bottom: 48px;
+}
+.box{
+    background-color: white;
+}
+.box2{
+    background-color: white;
+}
+.login{
+    background: rgb(10,85,244);
+    background: linear-gradient(97deg, rgba(10,85,244,1) 0%, rgba(11,144,236,1) 45%, rgba(23,201,237,1) 100%);
+  }
